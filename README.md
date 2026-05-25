@@ -149,8 +149,8 @@ Using XAMPP.
 http://localhost/KM/
 🔑 Default Login
 Super Admin
-Email: admin@example.com
-Password: 123456
+Email: admin@gmail.com
+Password: 1234567
 
 Change credentials after first login.
 
