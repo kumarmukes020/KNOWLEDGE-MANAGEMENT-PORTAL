@@ -107,7 +107,7 @@ KM/
 └── logout.php
 ⚙️ Installation Steps
 1️⃣ Clone or Download Project
-git clone https://github.com/your-repo/km-portal.git
+https://github.com/kumarmukes020/KNOWLEDGE-MANAGEMENT-PORTAL)
 
 OR copy project into:
 
